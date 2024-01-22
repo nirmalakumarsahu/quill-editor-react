@@ -19,7 +19,7 @@ Then you can see the view
 
 ![image](https://github.com/nirmalakumarsahu/quill-editor-react/assets/62144558/f645e387-a1e9-4da8-8b81-6a20ff4a01b4)
 
-OUTOUT USE CASE: TEXT EDITOR 
+Output & Usecase: TEXT EDITOR 
 
 https://github.com/nirmalakumarsahu/quill-editor-react/assets/62144558/0e91b663-5b5a-486c-a234-d9d54b537342
 
