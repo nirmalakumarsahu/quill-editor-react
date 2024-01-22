@@ -3,9 +3,11 @@ Follow the following commands to run in local
 
 1. Take a Clone : https://github.com/nirmalakumarsahu/quill-editor-react.git
    G BASH> git clone https://github.com/nirmalakumarsahu/quill-editor-react.git
-   ![image](https://github.com/nirmalakumarsahu/quill-editor-react/assets/62144558/d7583d79-b0bc-4b09-aa3b-df3cfc1f1fdb)
+   
+   ![298436452-d7583d79-b0bc-4b09-aa3b-df3cfc1f1fdb](https://github.com/nirmalakumarsahu/quill-editor-react/assets/62144558/98b78fec-bfe4-48f3-9a9f-1500e0a4a9cb)
 
 2. Now open Visual Studio code using "code ."
+   
    ![image](https://github.com/nirmalakumarsahu/quill-editor-react/assets/62144558/edaa1007-ba4e-4170-b221-0ea7d902eb8f)
 
 3. Once open th VS Code then open the terminal and run the following commands
