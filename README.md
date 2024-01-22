@@ -11,8 +11,10 @@ Follow the following commands to run in local
    
    ![image](https://github.com/nirmalakumarsahu/quill-editor-react/assets/62144558/edaa1007-ba4e-4170-b221-0ea7d902eb8f)
 
-3. Once open th VS Code then open the terminal and run the following commands
+3. Once open the VS Code then open the terminal and run the following commands
+   
     a. npm install
+   
     b. npm run dev
 
 Then you can see the view
